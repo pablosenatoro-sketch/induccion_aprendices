@@ -1,0 +1,8 @@
+{
+  "name": "Remix Inducción SENA - Acuerdo 009 de 2024",
+  "description": "Prototipo interactivo de inducción institucional y simulador del Reglamento del Aprendiz SENA basado en el Acuerdo 009 de 2024.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

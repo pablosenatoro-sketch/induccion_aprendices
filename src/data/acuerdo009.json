@@ -1,0 +1,113 @@
+{
+  "entidad": "Servicio Nacional de Aprendizaje - SENA",
+  "documento": "Reglamento del Aprendiz SENA",
+  "norma": "Acuerdo 009 de 2024",
+  "descripcion": "Estructura normativa oficial convertida a formato JSON para sistemas educativos interactivos.",
+  "capitulos": [
+    {
+      "id": "cap-1",
+      "titulo": "Capítulo I: Principios Generales y Definición del Aprendiz",
+      "articulos": [
+        {
+          "numero": "Artículo 5",
+          "titulo": "Definición del Aprendiz SENA",
+          "contenido": "El aprendiz SENA es toda persona matriculada en los programas de formación profesional integral del SENA, quien participa activamente en su proceso formativo técnico, tecnológico y humano."
+        }
+      ]
+    },
+    {
+      "id": "cap-2",
+      "titulo": "Capítulo II: Derechos del Aprendiz SENA",
+      "articulos": [
+        {
+          "numero": "Artículo 9",
+          "titulo": "Derechos de carácter Académico",
+          "literales": [
+            {
+              "id": "a.1",
+              "texto": "Recibir en el momento de su matrícula, el carné estudiantil que lo acredite como Aprendiz del SENA."
+            },
+            {
+              "id": "a.2",
+              "texto": "Recibir inducción al momento de ingresar al SENA, donde estén incluidos contenidos de gestión tecnológica, conocimiento del entorno, aporte a la productividad y competitividad, formulación de proyectos, la construcción de su ruta de aprendizaje, y los deberes y derechos que asume como Aprendiz SENA."
+            },
+            {
+              "id": "a.3",
+              "texto": "Acceso a diversas fuentes de conocimiento durante el proceso de formación: las tecnologías de información y comunicaciones, el entorno real o simulado en los ambientes de aprendizaje, el trabajo colaborativo con otros aprendices del SENA y los instructores."
+            },
+            {
+              "id": "a.4",
+              "texto": "Recibir formación profesional, acorde con el programa en el cual se matriculó, y al crecimiento y desarrollo armónico de sus dimensiones humanas."
+            },
+            {
+              "id": "a.5",
+              "texto": "Hacer uso apropiado de los ambientes de aprendizaje (infraestructura, equipos, herramientas, recursos didácticos, técnicos, tecnológicos, bibliográficos) disponibles para el aprendizaje, asumiendo responsabilidad por su daño, deterioro anormal o utilización indebida."
+            },
+            {
+              "id": "a.6",
+              "texto": "Disfrutar de los programas institucionales de bienestar al Aprendiz, durante el proceso de aprendizaje, conforme a la normatividad que rija este tema en el SENA."
+            },
+            {
+              "id": "a.7",
+              "texto": "Recibir orientación académica y comportamental que estimule el desarrollo personal y promueva la convivencia social."
+            }
+          ]
+        },
+        {
+          "numero": "Artículo 10",
+          "titulo": "Derechos de carácter Comportamental",
+          "literales": [
+            {
+              "id": "b.1",
+              "texto": "Recibir trato digno y respetuoso por todos los integrantes de la Comunidad Educativa."
+            },
+            {
+              "id": "b.2",
+              "texto": "Ser escuchado y atendido en sus peticiones, siguiendo el debido proceso."
+            },
+            {
+              "id": "b.3",
+              "texto": "Expresar con libertad ideas y pensamientos, respetando el derecho a la educación, al trabajo, a la libertad de expresión y a la locomoción de los demás integrantes de la comunidad educativa, sin recurrir a la violencia, causar daños o perturbar el orden de las sedes del SENA, de los procesos de formación y del lugar en el que se adelante el aprendizaje."
+            },
+            {
+              "id": "b.4",
+              "texto": "Usar la indumentaria y los elementos de protección personal propios del programa de formación profesional, para protegerse de los riesgos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cap-3",
+      "titulo": "Capítulo III: Deberes del Aprendiz SENA",
+      "articulos": [
+        {
+          "numero": "Artículo 11",
+          "titulo": "Deberes del Aprendiz",
+          "contenido": "Cumplir con la normatividad institucional, asistir puntualmente a las actividades formativas, portar el carné, actuar con ética y probidad, cuidar los bienes institucionales y reportar cualquier novedad que afecte el proceso."
+        }
+      ]
+    },
+    {
+      "id": "cap-4",
+      "titulo": "Capítulo IV: Prohibiciones y Régimen Disciplinario",
+      "articulos": [
+        {
+          "numero": "Artículo 14",
+          "titulo": "Prohibiciones Generales",
+          "contenido": "Prohibición de fraude, plagio, porte de armas o sustancias psicoactivas, acoso, y daño a las instalaciones."
+        },
+        {
+          "numero": "Artículo 28",
+          "titulo": "Clasificación de Faltas",
+          "contenido": "Las faltas se clasifican en Académicas y Disciplinarias, evaluadas como Leves, Graves o Gravísimas."
+        },
+        {
+          "numero": "Artículo 34",
+          "titulo": "Debido Proceso",
+          "contenido": "Garantías de defensa, descargos, presunción de inocencia y decisión motivada."
+        }
+      ]
+    }
+  ]
+}
